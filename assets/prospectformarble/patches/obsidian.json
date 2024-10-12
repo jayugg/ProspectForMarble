@@ -1,0 +1,14 @@
+[
+    {
+        "op": "addmerge",
+        "file": "game:worldgen/deposits/rock/obsidian.json",
+        "path": "/0/withOreMap",
+        "value": true
+    },
+    {
+        "op": "addmerge",
+        "file": "game:worldgen/deposits/rock/obsidian.json",
+        "path": "/0/handbookPageCode",
+        "value": "item-stone-obsidian"
+    }
+]

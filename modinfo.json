@@ -1,0 +1,13 @@
+{
+    "type": "content",
+    "modid": "prospectformarble",
+    "name": "Prospect for Marble",
+    "authors": [
+        "jayugg"
+    ],
+    "description": "Makes marble appear in prospecting info.",
+    "version": "1.0.0",
+    "dependencies": {
+        "game": ""
+    }
+}

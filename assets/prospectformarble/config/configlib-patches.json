@@ -1,0 +1,61 @@
+{
+    "version": 1,
+    "patches": {
+        "boolean": {
+            "prospectformarble:patches/marble.json": {
+                "0/value": "WHITEMARBLE",
+                "2/value": "WHITEMARBLE",
+                "4/value": "REDMARBLE",
+                "6/value": "GREENMARBLE",
+                "8/value": "GREENMARBLE"
+            },
+            "prospectformarble:patches/obsidian.json": {
+                "0/value": "OBSIDIAN"
+            },
+            "prospectformarble:patches/flint.json": {
+                "0/value": "FLINT"
+            }
+        }
+    },
+    "settings": {
+        "boolean": {
+            "WHITEMARBLE": {
+                "name": "whitemarble",
+                "ingui": "prospectformarble:setting-whitemarble",
+                "weight": 1.0,
+                "comment": "Prospect for white marble",
+                "default": true
+            },
+            "REDMARBLE": {
+                "name": "redmarble",
+                "ingui": "prospectformarble:setting-redmarble",
+                "weight": 0.9,
+                "comment": "Prospect for pink marble",
+                "default": true
+            },
+            "GREENMARBLE": {
+                "name": "greenmarble",
+                "ingui": "prospectformarble:setting-greenmarble",
+                "weight": 0.8,
+                "comment": "Prospect for green marble",
+                "default": true
+            },
+            "OBSIDIAN": {
+                "name": "obsidian",
+                "ingui": "prospectformarble:setting-obsidian",
+                "weight": 0.7,
+                "comment": "Prospect for obsidian",
+                "default": true
+            },
+            "FLINT": {
+                "name": "flint",
+                "ingui": "prospectformarble:setting-flint",
+                "weight": 0.6,
+                "comment": "Prospect for flint",
+                "default": true
+            }
+        }
+    },
+    "formatting": [
+    ]
+}

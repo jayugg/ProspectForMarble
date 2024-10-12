@@ -1,0 +1,13 @@
+{
+    "game:ore-whitemarble": "White marble",
+    "game:ore-redmarble": "Pink marble",
+    "game:ore-greenmarble": "Green marble",
+    "game:ore-obsidian": "Obsidian",
+    "game:ore-flint": "Flint",
+
+    "setting-whitemarble": "Prospect for white marble",
+    "setting-redmarble": "Prospect for pink marble",
+    "setting-greenmarble": "Prospect for green marble",
+    "setting-obsidian": "Prospect for obsidian",
+    "setting-flint": "Prospect for flint"
+}

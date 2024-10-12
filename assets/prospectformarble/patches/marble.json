@@ -1,0 +1,62 @@
+[
+    {
+        "op": "addmerge",
+        "file": "game:worldgen/deposits/rock/marble.json",
+        "path": "/0/withOreMap",
+        "value": true
+    },
+    {
+        "op": "addmerge",
+        "file": "game:worldgen/deposits/rock/marble.json",
+        "path": "/0/handbookPageCode",
+        "value": "item-stone-whitemarble"
+    },
+    {
+        "op": "addmerge",
+        "file": "game:worldgen/deposits/rock/marble.json",
+        "path": "/1/withOreMap",
+        "value": true
+    },
+    {
+        "op": "addmerge",
+        "file": "game:worldgen/deposits/rock/marble.json",
+        "path": "/1/handbookPageCode",
+        "value": "item-stone-whitemarble"
+    },
+    {
+        "op": "addmerge",
+        "file": "game:worldgen/deposits/rock/marble.json",
+        "path": "/2/withOreMap",
+        "value": true
+    },
+    {
+        "op": "addmerge",
+        "file": "game:worldgen/deposits/rock/marble.json",
+        "path": "/2/handbookPageCode",
+        "value": "item-stone-redmarble"
+    },
+    {
+        "op": "addmerge",
+        "file": "game:worldgen/deposits/rock/marble.json",
+        "path": "/3/withOreMap",
+        "value": true
+    },
+    {
+        "op": "addmerge",
+        "file": "game:worldgen/deposits/rock/marble.json",
+        "path": "/3/handbookPageCode",
+        "value": "item-stone-greenmarble"
+    },
+    {
+        "op": "addmerge",
+        "file": "game:worldgen/deposits/rock/marble.json",
+        "path": "/4/withOreMap",
+        "value": true
+    },
+    {
+        "op": "addmerge",
+        "file": "game:worldgen/deposits/rock/marble.json",
+        "path": "/4/handbookPageCode",
+        "value": "item-stone-greenmarble"
+    },
+]
